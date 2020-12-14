@@ -1,0 +1,12 @@
+---
+title: "Plot 1"
+output: html_notebook
+---
+```{r}
+NEI <- readRDS("F:/Descargas/exdata_data_NEI_data/summarySCC_PM25.rds")
+```
+
+```{r}
+View(NEI)
+```
+
